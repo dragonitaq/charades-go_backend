@@ -44,7 +44,7 @@ const wipeData = async () => {
 };
 
 // Update category's vocabulary
-const categoryId = '600bab00a91a8c142846ac30'; // title: 搞笑短语
+const categoryId = '600bab00a91a8c142846ac26';
 const filePath = '../data/update.txt';
 const encoder = 'utf-8';
 

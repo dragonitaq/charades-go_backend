@@ -20,5 +20,5 @@ mongoose
   });
 
 const server = app.listen(process.env.PORT || 5000, () => {
-  console.log('Server is live!');
+  console.log('Server is live at port 5000!');
 });
